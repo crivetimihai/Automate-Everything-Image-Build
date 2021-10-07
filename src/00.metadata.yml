@@ -1,0 +1,37 @@
+---
+title: "Automate Everything - DevSecOps for OS Images with Ansible"
+subtitle: "OpenShift Virtualization Image Pipeline"
+author:
+- "Mihai Criveti, CTO @ IBM Cloud Native and Red Hat Solutions, RHCA"
+date: \today
+
+abstract: |
+  Automate the operating system image build pipeline using Ansible and OpenSCAP
+  Case study - building images for OpenShift Virtualization
+keywords: openshift, virtualization, ansible, os
+description: |
+  Automate image builds
+subject: Ansible, Red Hat OpenShift Virtualization
+category: presentation
+lang: en-US
+
+output: beamer_presentation
+aspectratio: "169"
+toc: true
+slide_level: 2
+incremental: false # Incremental bullets
+classoption: "aspectratio=169"
+dpi: 300
+
+theme: "metropolis"
+colortheme: "owl"
+sansfont: IBM Plex Sans
+monofont: IBM Plex Mono
+mainfont: IBM Plex Sans
+fontsize: 8pt
+highlight: tango
+
+logo: ./template/logo.png
+titlegraphic: ./template/frontpage.png
+section-titles: true
+---
